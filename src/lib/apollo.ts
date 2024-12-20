@@ -1,5 +1,5 @@
 import { ApolloClient, InMemoryCache, createHttpLink, NormalizedCacheObject } from '@apollo/client';
-import { Character } from '../types/character';
+
 
 const httpLink = createHttpLink({
   uri: 'https://rickandmortyapi.com/graphql',
