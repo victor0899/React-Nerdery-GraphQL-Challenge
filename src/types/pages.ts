@@ -1,0 +1,1 @@
+export type Page = 'characters' | 'episodes' | 'about';
