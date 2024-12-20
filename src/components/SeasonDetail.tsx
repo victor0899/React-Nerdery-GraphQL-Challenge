@@ -1,6 +1,8 @@
+//comment for review
 import React from 'react';
 import { Season } from '../types/episode';
 import { ChevronLeft } from 'lucide-react';
+
 
 interface SeasonDetailProps {
   season: Season | null;
