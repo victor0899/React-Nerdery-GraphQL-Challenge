@@ -1,3 +1,4 @@
+//comment for review
 import { gql } from '@apollo/client';
 
 export const GET_CHARACTERS = gql`

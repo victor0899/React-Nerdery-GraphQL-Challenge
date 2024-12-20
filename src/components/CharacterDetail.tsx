@@ -1,3 +1,4 @@
+//comment for review
 import React from 'react';
 import { Character } from '../types/character';
 import { ChevronLeft } from 'lucide-react';

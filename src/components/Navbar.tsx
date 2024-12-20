@@ -1,3 +1,4 @@
+//comment for review
 import React, { useState } from 'react';
 import logoImage from '../assets/rick-morty-logo.svg';
 import { Page } from '../types/pages';
